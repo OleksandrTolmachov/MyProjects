@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task_14.Factories.Shop">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories(Shops)\Shop.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="dialogue" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Task_14.Shops_Fabrics_.FoodShop.MarketFactory">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAABAIAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories(Shops)\FoodShop\MarketFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_14.Shops_Fabrics_.InstrumentShop.InstrumentFactory">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAEQAAAAAAA=</HashCode>
+      <FileName>Factories(Shops)\InstrumentShop\InstrumentFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_14.Shops_Fabrics_.Pizzeria.Pizzeria">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Factories(Shops)\Pizzeria\Pizzeria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_14.Shops_Fabrics_.Pizzeria.ItalianPizzeria">
+    <Position X="11" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAACQA=</HashCode>
+      <FileName>Factories(Shops)\Pizzeria\ItalianPizzeria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_14.Shops_Fabrics_.Pizzeria.SuperPizzeria">
+    <Position X="12.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAACQA=</HashCode>
+      <FileName>Factories(Shops)\Pizzeria\SuperPizzeria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_14.Factories.PatternStratehy.ConsoleDialogue" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAABAAAAAAAAAAAAAAAABQAAAAAA=</HashCode>
+      <FileName>Factories(Shops)\PatternStratehy\ConsoleDialogue.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="Task_14.Shops_Fabrics_.FoodShop.MarketATB">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAABAIAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories(Shops)\FoodShop\MarketATB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_14.Shops_Fabrics_.FoodShop.MarketOne">
+    <Position X="5.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAABAIAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories(Shops)\FoodShop\MarketOne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_14.Shops_Fabrics_.InstrumentShop.IronFactory">
+    <Position X="7" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAEQAAAAAAA=</HashCode>
+      <FileName>Factories(Shops)\InstrumentShop\IronFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_14.Shops_Fabrics_.InstrumentShop.PlasticFactory">
+    <Position X="9" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAEQAAAAAAA=</HashCode>
+      <FileName>Factories(Shops)\InstrumentShop\PlasticFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_11.Storage.Storage&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAACBAAiACIAAAAhABAAJAECJAAQAAAAAA=</HashCode>
+      <FileName>Storage\Storage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.73" />
+  </Class>
+  <Class Name="Task_14.Products.Foods.Food" Collapsed="true">
+    <Position X="24.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhAAAAAQAAABAEgAAAAAQAACAEAIAgAAAAAAAAAjA=</HashCode>
+      <FileName>Products\Foods\Food.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task_14.Products.Foods.Meat">
+    <Position X="21.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAIBAAAABAEgAAAAAAIAAAACIAAAAAEIAAAAhA=</HashCode>
+      <FileName>Products\Foods\Meat.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task_14.Products.Foods.Milk">
+    <Position X="25.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAIBAAAABAEgAAAAAAAAAAAAIAAAAAEAAAAABA=</HashCode>
+      <FileName>Products\Foods\Milk.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task_14.Products.Foods.OtherFood">
+    <Position X="30.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Products\Foods\OtherFood.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_14.Products.Foods.Pizza">
+    <Position X="19" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAABAAAAAAEAAAAAAAAAAIAAAAAAQAEAAAABBA=</HashCode>
+      <FileName>Products\Foods\Pizza.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task_14.Products.Foods.SoftDrink">
+    <Position X="23.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Products\Foods\SoftDrink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_14.Products.Foods.Water">
+    <Position X="28" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Products\Foods\Water.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Task_14.Factories.PatternStratehy.IDialogueStrategy" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Factories(Shops)\PatternStratehy\IDialogueStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task_14.Products.Interfaces.ICloneable&lt;T&gt;" Collapsed="true">
+    <Position X="23.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Products\Interfaces\ICloneable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task_14.Products.Interfaces.IExpirable" Collapsed="true">
+    <Position X="20.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Products\Interfaces\IExpirable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task_14.Products.Interfaces.IFood" Collapsed="true">
+    <Position X="23.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\Interfaces\IFood.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task_14.Products.Interfaces.IInstrument" Collapsed="true">
+    <Position X="28.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAgAAAABA=</HashCode>
+      <FileName>Products\Interfaces\IInstrument.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task_14.Products.Interfaces.IMeat" Collapsed="true">
+    <Position X="23.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\Interfaces\IMeat.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task_14.Products.Interfaces.IMilk" Collapsed="true">
+    <Position X="22" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\Interfaces\IMilk.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task_14.Products.Interfaces.IPizza" Collapsed="true">
+    <Position X="25.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAQAAAAAABAA=</HashCode>
+      <FileName>Products\Interfaces\IPizza.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task_14.Products.Interfaces.IProduct" Collapsed="true">
+    <Position X="26.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAABAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\Interfaces\IProduct.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
